@@ -24,5 +24,4 @@ class guiClass(MainClass):
         self.label3.grid(row=4,column=0)
         self.mainWindow.mainloop()
     
-myObj = guiClass()
-myObj.mainApp()
+guiClass().mainApp()
