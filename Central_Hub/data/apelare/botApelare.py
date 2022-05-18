@@ -50,7 +50,7 @@ class guiClass:
         
     def printA(self):
         a=0
-        q=1
+        
         
 
         a=self.e.get()
