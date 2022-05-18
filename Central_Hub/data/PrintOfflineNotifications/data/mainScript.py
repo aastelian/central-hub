@@ -1,4 +1,4 @@
-from input import InputClass
+
 import re, os
 from PyPDF2 import PdfFileWriter
 from tkinter import messagebox
